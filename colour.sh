@@ -7,5 +7,5 @@ a=10
 b=15
 date= #date
 echo "the addittion of a+b is =${a}+${b}"
-echo "today date is: $date"
-echo "calndar is $cal"
+echo "today date is:" date
+echo "calndar is :" cal
