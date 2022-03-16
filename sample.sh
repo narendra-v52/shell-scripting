@@ -1,3 +1,3 @@
 #!/bin/bash
-lcho "Narendra"
+echo "Narendra"
 echo "$shell"
