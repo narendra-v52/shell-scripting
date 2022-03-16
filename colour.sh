@@ -5,5 +5,6 @@ echo -e "narendra \n indra"
 echo -e "\e[32mnaren\e[0m \t \e[34msowj\e[0m"
 a=10
 b=15
+date= date
 echo "the addittion of a+b is =${a}+${b}"
 echo "today date is: $date"
